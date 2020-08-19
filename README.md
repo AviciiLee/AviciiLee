@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm AXING, a self-taught frontEnd web developer.
+Hi, I'm AXING, a self-taught FE web developer.
 - 🌱 I’m currently learning React and TypeScript
 
 **Languages and Tools:**  
