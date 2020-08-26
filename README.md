@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-Hi, I'm AXING, a self-taught FE web developer.
+Hi, I'm AXING, a self-taught FE developer.
 
 [![Blog](https://img.shields.io/badge/blog.AXING-%20-yellow?logo=bloglovin)](https://www.geeklee.cn/)
 
