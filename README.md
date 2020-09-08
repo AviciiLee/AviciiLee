@@ -1,5 +1,3 @@
-<a href="https://github.com/AshinLee"><img align='right' src="https://github-readme-stats.vercel.app/api?username=AshinLee&show_icons=true"></a>
-
 ### Hi there 👋
 
 Hi, I'm AXING, a self-taught FE developer.
