@@ -3,7 +3,7 @@
 Hi, I'm AXING, a self-taught FE developer.
 
 
-- 🌱 I’m currently learning React and TypeScript
+- 🌱 I’m currently learning Node and TypeScript
 
 
 **Languages and Tools:**  
