@@ -1,3 +1,3 @@
 ### Hi there 👋 
 
-Hi, I'm AXING
+Hi, I'm Avicii Lee
