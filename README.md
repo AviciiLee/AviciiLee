@@ -1,9 +1,6 @@
 ### Hi there 👋 
 
-Hi, I'm Avicii Lee, a developer.
-
-
-- 🌱 I’m currently learning Node and TypeScript
+Hi, I'm Avicii Lee, a developer、Continuous learner.
 
 
 **Languages and Tools:**  
